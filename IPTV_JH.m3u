@@ -6,17 +6,18 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_360.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="Nacionales",Teletica 7 | CR
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5-F-DsglrNjBDX-WxObx9P05nEhmvp8lTbo_NNBcJBpw)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-id="1043" tvg-name="Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png", Canal 8 | CR
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_1200.m3u8?aid=579bd29dc99290cf08362c3b&uid=ALAR2qqIavzi0P7IU0PVdMN37AXGuqg4&sid=fVwB2dFel9EcLQQr56ojAjTo7ZqfGg24&pid=ozEDPqs0SVsJL28WqtpRBlswhVlVvupK&ref=https%3A%2F%2Fwww.telediario.cr%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1664570528846&ot=qC9ZFjfZ8rsOGVPWxVNl2w&proto=https&pz=us
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_1200.m3u8?aid=579bd29dc99290cf08362c3b&uid=ALAR2qqIavzi0P7IU0PVdMN37AXGuqg4&sid=fVwB2dFel9EcLQQr56ojAjTo7ZqfGg24&pid=ozEDPqs0SVsJL28WqtpRBlswhVlVvupK&ref=https://www.telediario.cr/&without_cookies=true&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1664570528846&ot=qC9ZFjfZ8rsOGVPWxVNl2w&proto=https&pz=us
+
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Canal 11" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/250px-Repretel_11_logo.png" group-title="Nacionales", Canal 11 | CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8
 #EXTINF:-1 tvg-id="Canal13.cr" tvg-name="Canal 13" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://observador.cr/sinart-remozo-imagen-y-eslogan-de-canal-13/" group-title="Nacionales", Canal 13 | CR
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT8jU09cUH5eLFn5CPqhdr1p3W6PCX568fsuWsQtxrgY)/dm/3/x7vh8g3/d/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZkcV7M9l81_qDPeLy-AtH5UseAp2p5jWSSkLbR6U66M)/dm/3/x7vh8g3/d/live-0.m3u8
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-name="Canal 14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="Nacionales", Canal 14 San Carlos
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="1044" tvg-country="CR" tvg-language="Spanish" tvg-name="Telesur Costa Rica" tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png", Telesur  | CR
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ba4wF0N.png" group-title="Religioso", EnlaceTV
-https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Otros", RT en Español (1080p)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religioso",Nuevo Tiempo
